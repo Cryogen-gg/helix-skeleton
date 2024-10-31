@@ -1,5 +1,5 @@
 
-"cwrp"
+"starwarsrp"
 {
 	"base" 			"helix"
 	"title" 		"Clone Wars Roleplay"
