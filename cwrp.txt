@@ -1,0 +1,8 @@
+
+"cwrp"
+{
+	"base" 			"helix"
+	"title" 		"Clone Wars Roleplay"
+	"author" 		"Froggles"
+	"menusystem"	"1"
+}
